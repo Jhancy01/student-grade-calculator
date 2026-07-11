@@ -1,0 +1,4 @@
+# This project uses only Python's built-in standard library
+# (csv, os) — no third-party packages are required.
+#
+# Python version required: 3.7+
